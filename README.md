@@ -49,3 +49,6 @@ Notes
 Anti-Op does not grant OP to any players automatically—it only enforces the whitelist.
 
 Make sure your whitelist is up-to-date to prevent accidentally deopping trusted admins.
+
+Project's source code is available but i'm still new to github so build at your own risk
+
