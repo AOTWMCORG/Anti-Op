@@ -1,0 +1,7 @@
+# List of operators allowed on the server
+allowed-ops:
+  - LPlaysgames
+  - Beanbean201213
+
+# Kick message for unauthorized OPs
+kick-message: "You are not allowed to be OP on this server!"
