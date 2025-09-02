@@ -15,6 +15,8 @@ Lightweight and easy to use.
 
 Compatible with Paper and Spigot servers.
 
+Can be used to stop people who have backdoors from getting operator status.
+
 # Installation
 
 Download the latest JAR from the Releases
